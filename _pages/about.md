@@ -23,7 +23,7 @@ Research Interest
 Political Participation, Social Mobility, Social Theory, Econometrics
 
 Academic Experience
-======
+------
 * 01/2023-05/2023: Coursework of Economic Sociology
   * Wrote a research proposal focusing on dowry, especially the upward intergenerational transformation within this
 phenomenon to identify the vertical effect of dowry on daughters' parental caregiving practices
@@ -48,7 +48,7 @@ interviewed 44 villagers with different socioeconomic statuses to know their cur
 won an award by a comprehensive research design
 
 Work Experience
-======
+------
 * 03/2022-09/2022: Assistant Project Manager
   * Completed 6 projects varying from sample output daily reports, application interface revision estimation, dinning out
 scenario investigation, and teaching-based computer fieldwork, focusing on internet and technique companies
@@ -62,7 +62,7 @@ information from desk research, customized investigation, and interviews.
 making graphs, and drew valuable conclusions in business reports
   
 Skills
-======
+------
 * Languages: English (fluent, TOEFL105), Mandarin(native), German(beginner)
 * Computer: Microsoft Office, STATA, Python, R
 * Activities: Calligraphy, Chinese classical dance, Volleyball
