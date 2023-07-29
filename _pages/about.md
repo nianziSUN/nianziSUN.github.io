@@ -13,8 +13,10 @@ I’m now a graduate student at Hong Kong University of Science and Technology. 
 
 Education
 ------
-Bachelor of Laws in Sociology, Shandong University, 2017-2021
-Master of Arts in Social Science, HKUST, 2022-2023
+
+* Bachelor of Laws in Sociology, Shandong University, 2017-2021
+* Master of Arts in Social Science, HKUST, 2022-2023
+
 
 Research Interest
 ------
