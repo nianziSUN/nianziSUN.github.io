@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nianzi Sun / Personal"
+title                    : "Nianzi Sun / Personal Website"
 title_separator          : "-"
 name                     : &name "Nianzi"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "SUN Nianzi"
-  avatar           : "WechatIMG2716.jpeg"
+  avatar           : "profile.png"
   bio              : "Graduate Student@HKUST"
   location         : "HKSAR, China"
   employer         :
