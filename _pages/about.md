@@ -41,11 +41,11 @@ York TLS Trip Record, and found a strong area-centered connection using Exponent
 incentives, financial rewards, and influential honors to optimize the management strategies
   * Contacted official media, social organizations, and government departments to improve visibility as well as riskresistance of the company
  
-* 12/2019: The First Heren Social Survey Skill Competition
+* 12/2019: FG Consulting Company
   * Received entrance permission and demographic information from the chairmen of 3 village committees and
 interviewed 44 villagers with different socioeconomic statuses to know their current social networks
   * Gathered the information and made charts to display the distribution of Sino-foreign corporations in education, and
-won an award by a comprehensive research design
+won an award for a comprehensive research design
 
 Work Experience
 ------
